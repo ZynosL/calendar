@@ -42,5 +42,12 @@
         "name": "Tata myriam"
       }
     ]
-  }
+  },
+  "notify": [
+    {
+      "id": 1,
+      "name": "Maximilien",
+      "email": "bey.maximilien@gmail.com"
+    }
+  ]
 }
